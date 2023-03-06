@@ -2,7 +2,8 @@
 
 internal class Program
 {
-    private static readonly List<string> Names = new() { "Seppi", "Peppi", "Tom", "Jerry", "Heppo", "Peppo" };
+    private static readonly List<string> Names = new()
+        { "Seppi", "Peppi", "Tom", "Jerry", "Heppo", "Peppo", "Abraham", "Bebraham", "Cebraham" };
 
     static void Main(string[] args)
     {
