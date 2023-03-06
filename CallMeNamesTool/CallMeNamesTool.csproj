@@ -10,6 +10,7 @@
         <PackAsTool>true</PackAsTool>
         <ToolCommandName>call-me-names</ToolCommandName>
         <PackageOutputPath>./nupkg</PackageOutputPath>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>
